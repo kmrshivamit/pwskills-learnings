@@ -1,0 +1,88 @@
+INFO:root:Lg this line of execution
+INFO:root:Log this line of execution
+ERROR:root:this is debug
+CRITICAL:root:this is debug
+WARNING:root:this is my warning
+INFO:root:this is my logging
+ERROR:root:this is my error mss
+CRITICAL:root:this is my testing
+CRITICAL:root:this is my testing
+INFO:root:this is my logging
+ERROR:root:this is my error mss
+CRITICAL:root:this is my testing
+INFO:root:Log this line of execution
+CRITICAL:root:this is debug
+WARNING:root:this is my warning
+INFO:root:this is my logging
+ERROR:root:this is my error mss
+CRITICAL:root:this is my testing
+INFO:root:Log this line of execution
+CRITICAL:root:this is debug
+WARNING:root:this is my warning
+INFO:root:this is my logging
+ERROR:root:this is my error mss
+CRITICAL:root:this is my testing
+INFO:root:Log this line of execution
+CRITICAL:root:this is debug
+WARNING:root:this is my warning
+INFO:root:this is my logging
+ERROR:root:this is my error mss
+CRITICAL:root:this is my testing
+INFO:root:this is my logging
+ERROR:root:this is my error mss
+CRITICAL:root:this is my testing
+INFO:root:Log this line of execution
+CRITICAL:root:this is debug
+WARNING:root:this is my warning
+INFO:root:this is my logging
+ERROR:root:this is my error mss
+CRITICAL:root:this is my testing
+INFO:root:this is my logging
+ERROR:root:this is my error mss
+CRITICAL:root:this is my testing
+INFO:root:apping int value
+INFO:root:apping int value
+INFO:root:apping int value
+INFO:root:apping int value
+INFO:root:apping int value
+INFO:root:apping int value
+INFO:root:apping int value
+INFO:root:end of for loop
+INFO:root:Log this line of execution
+CRITICAL:root:this is debug
+WARNING:root:this is my warning
+INFO:root:this is my logging
+ERROR:root:this is my error mss
+CRITICAL:root:this is my testing
+INFO:root:apping int value
+INFO:root:apping int value
+INFO:root:apping int value
+INFO:root:apping int value
+INFO:root:apping int value
+INFO:root:apping int value
+INFO:root:apping int value
+INFO:root:end of for loop
+INFO:root:apping int value
+INFO:root:apping int value
+INFO:root:apping int value
+INFO:root:apping int value
+INFO:root:apping int value
+INFO:root:apping int value
+INFO:root:apping int value
+INFO:root:end of for loop
+INFO:root:apping int value
+INFO:root:apping int value
+INFO:root:apping int value
+INFO:root:apping int value
+INFO:root:apping int value
+INFO:root:apping int value
+INFO:root:apping int value
+INFO:root:end of for loop
+INFO:root:apping int value
+INFO:root:apping int value
+INFO:root:apping int value
+INFO:root:apping int value
+INFO:root:apping int value
+INFO:root:apping int value
+INFO:root:apping int value
+INFO:root:end of for loop

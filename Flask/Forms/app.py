@@ -54,7 +54,7 @@ def math_operation1():
             result= f'the {ops} of {str(num1)} and {str(num2)} is {str(result)}'
 
         return jsonify(result)
-    
+    s
     
         
 
